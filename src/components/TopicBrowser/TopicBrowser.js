@@ -4,6 +4,7 @@ import FilterObject from "../Topics/FilterObject";
 import FilterString from "../Topics/FilterString";
 import Palindrome from "../Topics/Palindrome";
 import Sum from "../Topics/Sum";
+import Multiply from "../Topics/Multiply"
 
 class TopicBrowser extends Component {
   render() {

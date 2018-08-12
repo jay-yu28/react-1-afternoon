@@ -41,7 +41,7 @@ class Sum extends Component {
         >
           Add
         </button>
-        <span className="resultBox"> Sum: {this.state.sum}</span>
+        <span className="resultsBox"> Sum: {this.state.sum}</span>
       </div>
     );
   }
